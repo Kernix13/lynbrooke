@@ -1,10 +1,3 @@
 # 225 Lynbrooke Rd Images
 
-Go to the [Netlify deployment]() to see 113 images for the house and property.
-
-<!--
-
-  Netlify1: file:///C:/Users/pc/Documents/WebDev/repos/md-files/netlify.md
-  Netlify2: file:///C:/Users/pc/Documents/WebDev/javascript/tmdb-flixx-app/netlify.md
-
--->
+Go to the <a href="https://225-lynbrooke.netlify.app/">Netlify deployment</a> to see 113 images for the house and property.
